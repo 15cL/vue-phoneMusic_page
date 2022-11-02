@@ -1,6 +1,6 @@
 # one
 
-> A Vue.js project
+> 一个移动端音乐播放页面，有评论，下载，播放列表，播放模式等功能
 
 ## Build Setup
 
